@@ -6,3 +6,8 @@
 - 💎 Currently mastering TypeScript and playing around with React
 - 🌍 Looking to collaborate on beautiful, engaging and functional projects for the World Wide Web
 - 📫 Feel free to poke me Andreas_lackmann@hotmail.com
+
+<div align="center">
+  
+[![Spotify](https://spotify-live-two.vercel.app/api/spotify)](https://open.spotify.com/user/szogkp55s34w7xo435bfo1x99)
+</div>
